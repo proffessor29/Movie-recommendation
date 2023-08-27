@@ -1,6 +1,6 @@
 # Movie-recommendation
 Hello there!
-Cinedantan is a public domain movies streaming webapp.
+it is a public domain movies streaming webapp.
 
 
 
